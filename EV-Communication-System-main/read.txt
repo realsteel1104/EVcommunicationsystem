@@ -1,0 +1,2 @@
+The purpose is to detect lanes as well as various parameters like radius of curvature, off center distance of vehicle from center and curve direction and communicate this data to user located at long distance using MQTT protocol.
+Install required libraries and run sub.py first and then laneDetection.py, you will get the data published by file laneDetection.py on the another terminal where you have executed sub.py file.
